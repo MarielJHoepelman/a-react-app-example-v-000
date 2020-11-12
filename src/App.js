@@ -1,14 +1,8 @@
-<<<<<<< HEAD
+
 import React, { Component } from "react";
 // eslint-disable-next-line import moment from "moment";
 import ExampleComponent from "./ExampleComponent";
 import TestComponent from "./TestComponent";
-=======
-import React, { Component } from 'react';
-import moment from 'moment';
-import ExampleComponent from './ExampleComponent'
-// eslint-disable-next-line import TestComponent from './TestComponent'
->>>>>>> bcaba7d9e202bab6872ba454fe457fc30365d408
 
 // Add your code own within the return statement
 
